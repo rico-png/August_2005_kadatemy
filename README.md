@@ -18,9 +18,10 @@ integer because our month and year are integer values. i finally used the print 
 - # Tools/language used for project.
 
 The tools i used include-
-Python is the programming language i used
-VSCODE is where i hosted my code
-used a library called Calendar
+
+- Python is the programming language i used
+- VSCODE is where i hosted my code
+- Used a library called Calendar
 
 
 - # How to run your project.
