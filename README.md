@@ -27,3 +27,8 @@ The tools i used include-
 - # How to run your project.
 
 I used the print() option to run my code and output was displayed.
+
+
+#Screenshot
+
+![Screenshot (8)](https://user-images.githubusercontent.com/78272083/160299715-0ad17ad2-7639-4365-a71c-474528ccf169.png)
